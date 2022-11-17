@@ -1,5 +1,6 @@
 - Hi, I'm Matt!
-- I’m looking to collaborate on anything and everything
+- I'm a fullstack engineer with a focus in JavaScript/TypeScript, React/Redux, Node.js/Express
+- I’m looking to collaborate on anything and everything 
 - How to reach me: matthewdias13@gmail.com
 
 <!---
